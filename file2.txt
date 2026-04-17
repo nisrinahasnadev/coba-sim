@@ -1,0 +1,3 @@
+materi pertemuan kedua sim:
+- koneksi data dati sql ke r
+- visualisasi data
